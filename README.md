@@ -2,7 +2,7 @@
 
 <div align="center">
 
-alfolio theme: 
+alfolio theme:
 
 [![GitHub release](https://img.shields.io/github/v/release/alshedivat/al-folio)](https://github.com/alshedivat/al-folio/releases/latest)
 
