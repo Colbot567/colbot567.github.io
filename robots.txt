@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.davo.lt/al-folio/sitemap.xml
+Sitemap: https://davo.lt/al-folio/sitemap.xml
