@@ -10,6 +10,3 @@ al-folio is available as open source under the terms of the [MIT License](https:
 ---
 
 Hehehehe hahahaha
-
-
-
