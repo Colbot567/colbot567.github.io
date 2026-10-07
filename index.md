@@ -1,4 +1,8 @@
 ---
 layout: home
+title: Landing
 ---
-# Welcome to the internet
+This is my website
+I don't need a website
+They shouldn't have let me have one
+But they did
