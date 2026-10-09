@@ -5,10 +5,10 @@ title: Landing
 <table>
   <tr>
     <td>
-      This is my website  
-      I don't need a website  
-      They shouldn't have let me have one  
-      But they did.  
+      This is my website<br>
+      I don't need a website<br>
+      They shouldn't have let me have one<br>
+      But they did.
     </td>
     <td>
       <img src="assets/img/logo.png" alt="logo is broken" width="300"/>
