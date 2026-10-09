@@ -12,9 +12,8 @@ title: Landing
       <img src="assets/img/logo_zoom.png" alt="logo is broken" width="300"/>
     </td>
     <td style="border: none; text-align: center; width: 33%">
-      They shouldn't have let me have one<br>
-      But they did<br>
-      and that has made all the difference
+      But they let me have one<br>
+      and that has made all the diff
     </td>
   </tr>
 </table>
