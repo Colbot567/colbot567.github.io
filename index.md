@@ -6,14 +6,17 @@ title: Landing
   <tr>
     <td style="border: none; text-align: center;">
       This is my website<br>
-      I don't need a website<br>
-      They shouldn't have let me have one<br>
-      But they did.
+      I don't need a website
     </td>
     <td style="border: none; vertical-align: middle;">
       <img src="assets/img/logo_zoom.png" alt="logo is broken" width="300"/>
     </td>
+    <td style="border: none; text-align: center;">
+      They shouldn't have let me have a website<br>
+      But they did.<br>
+      and that has made all the difference
+    </td>
   </tr>
 </table>
 
-I hope you enjoy?
+Eh. 67. I hope you enjoy?
