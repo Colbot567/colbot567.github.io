@@ -11,7 +11,7 @@ title: Landing
       But they did.
     </td>
     <td style="border: none; vertical-align: middle;">
-      <img src="assets/img/logo_zoom.png" alt="logo is broken" width="512"/>
+      <img src="assets/img/logo_zoom.png" alt="logo is broken" width="300"/>
     </td>
   </tr>
 </table>
