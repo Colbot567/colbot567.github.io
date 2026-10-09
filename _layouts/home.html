@@ -9,6 +9,7 @@ layout: base
 
   {{ content }}
 
+  {%- include search-box.html -%}
 
   {% if site.paginate %}
     {% assign posts = paginator.posts %}

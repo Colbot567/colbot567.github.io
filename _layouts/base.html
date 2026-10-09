@@ -17,6 +17,22 @@
 
     {%- include sub-footer.html -%}
 
+  <!-- Script CDN -->
+  <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+
+  <!-- Script Initialization -->
+  <script>
+    window.simpleJekyllSearch = SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: '{{ "/search.json" | relative_url }}',
+      searchResultTemplate: '<li><a href="{url}">{title}</a> <span class="post-date">- {date}</span></li>',
+      noResultsText: 'No results found',
+      limit: 10,
+      fuzzy: false
+    });
+  </script>
+
   </body>
 
 </html>
