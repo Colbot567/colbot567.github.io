@@ -2,8 +2,3 @@ remote_theme: "jekyll/minima@1e8a445"
 title: davo.lt
 description: Nice little landing spot for all those projects I swear I'll get back to
 show_excerpts: true
-minima:
-  social_links:
-    - { platform: github, user_url: "https://github.com/Colbot567" }
-    - { platform: instagram, user_url: "https://www.instagram.com/colbydavolt/" }
-
