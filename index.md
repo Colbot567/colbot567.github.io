@@ -2,7 +2,7 @@
 layout: home
 title: Landing
 ---
-<table style="border-collapse: collapse; border: none;">
+<table style="border-collapse: collapse; border: none; width:100%">
   <tr>
     <td style="border: none; text-align: center; width: 33%">
       This is my website<br>
