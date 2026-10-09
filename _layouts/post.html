@@ -29,6 +29,14 @@ layout: base
         {% endfor %}
       </div>
       {%- endif %}
+      {%- if page.tags and page.tags.size > 0 %}
+      <div class="post-tags">
+        <span class="meta-label">Tags:</span>
+        {% for tag in page.tags %}
+          <span class="post-tag" itemprop="keywords">{{ tag | escape }}</span>{% unless forloop.last %}, {% endunless %}
+        {%- endfor %}
+      </div>
+      {%- endif %}
     </div>
   </header>
 
