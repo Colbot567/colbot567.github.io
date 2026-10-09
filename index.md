@@ -2,15 +2,15 @@
 layout: home
 title: Landing
 ---
-<table>
+<table style="border-collapse: collapse; border: none;">
   <tr>
-    <td>
+    <td style="border: none; text-align: center;">
       This is my website<br>
       I don't need a website<br>
       They shouldn't have let me have one<br>
       But they did.
     </td>
-    <td>
+    <td style="border: none; vertical-align: middle;">
       <img src="assets/img/logo.png" alt="logo is broken" width="300"/>
     </td>
   </tr>
